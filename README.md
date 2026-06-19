@@ -19,7 +19,7 @@ My goal is to learn cybersecurity, programming, networking, and problem-solving 
 - Created repository
 - Started learning cybersecurity
 
-## Planned Projects
+## Planned Projects (To familiarize myself with python)
 - Password Strength Checker
 - Port Scanner
 - Log Analyzer
