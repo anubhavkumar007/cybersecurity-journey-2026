@@ -17,7 +17,7 @@ My goal is to learn cybersecurity, programming, networking, and problem-solving 
 ### Day 1
 - Created GitHub account
 - Created repository
-- Started learning cybersecurity basics: Intro to Offensive Security
+- Started learning cybersecurity basics: Completed Intro to Offensive Security
 
 ## Planned Projects (To familiarize myself with python)
 - Password Strength Checker
