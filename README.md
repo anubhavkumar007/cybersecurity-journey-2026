@@ -27,6 +27,10 @@ My goal is to learn cybersecurity, programming, networking, and problem-solving 
 - Completed TryHackMe: Defensive Security Intro
 - Completed TryHackMe: Careers in Cybersecurity
 
+### Day 2
+- More on Python (Revision)
+- Started Project #1: Password Strength Checker
+
 ## Planned Projects (To familiarize myself with python)
 - Password Strength Checker
 - Port Scanner
