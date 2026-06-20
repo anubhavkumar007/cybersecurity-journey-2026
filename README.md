@@ -29,7 +29,8 @@ My goal is to learn cybersecurity, programming, networking, and problem-solving 
 
 ### Day 2
 - More on Python (Revision)
-- Started Project #1: Password Strength Checker
+- Completed Project #1: Password Strength Checker
+- Continuing with TryHackMe
 
 ## Planned Projects (To familiarize myself with python)
 - Password Strength Checker
