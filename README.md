@@ -31,6 +31,7 @@ My goal is to learn cybersecurity, programming, networking, and problem-solving 
 - More on Python (Revision)
 - Completed Project #1: Password Strength Checker
 - Continuing with TryHackMe
+- Completed TryHackMe: What is Networking?
 
 ## Planned Projects (To familiarize myself with python)
 - Password Strength Checker
