@@ -6,6 +6,7 @@ Hi, I'm Anubhav.
 I started this repository after discovering IIT Kanpur's B.Cyber program.
 
 My goal is to learn cybersecurity, programming, networking, and problem-solving from the ground up.
+I use online resources, documentation, and AI tools to plan learning roadmaps and clarify concepts. All projects in this repository are designed, implemented, tested, and debugged by me as part of my learning process.
 
 ## Progress
 
