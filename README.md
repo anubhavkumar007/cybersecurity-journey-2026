@@ -12,12 +12,20 @@ My goal is to learn cybersecurity, programming, networking, and problem-solving 
 ## Background
 - ISC Computer Science (Java)
 - Strong foundation in mathematics and problem solving
-- Currently learning Python and cybersecurity fundamentals
+
+## Current Learning Focus
+- Python Fundamentals
+- Networking Basics
+- Linux Fundamentals
+- Cybersecurity Fundamentals
 
 ### Day 1
 - Created GitHub account
 - Created repository
-- Started learning cybersecurity basics: Completed Intro to Offensive Security, Defensive Security Intro
+- Started learning cybersecurity basics
+- Completed TryHackMe: Intro to Offensive Security
+- Completed TryHackMe: Defensive Security Intro
+- Completed TryHackMe: Careers in Cybersecurity
 
 ## Planned Projects (To familiarize myself with python)
 - Password Strength Checker
