@@ -34,6 +34,9 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
 - Continuing with TryHackMe
 - Completed TryHackMe: What is Networking?
 
+### Day 3
+- Started Bandit on OverTheWire to sharpen terminal skills
+
 ## Planned Projects (To familiarize myself with python)
 - Password Strength Checker
 - Port Scanner
