@@ -36,7 +36,24 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
 
 ### Day 3
 - Started Bandit on OverTheWire to sharpen terminal skills
-
+- Completed OverTheWire Bandit Levels upto level 11
+- Learned and practiced:
+  - SSH login to remote server
+  - File navigation (ls, cd)
+  - Hidden/special files handling
+  - File search using find
+  - Reading files using cat
+  - Text processing using pipelines (|)
+  - Sorting and filtering data using sort and uniq
+  - Pattern searching using grep
+  - File type identification using file
+  - Basic encoding/decoding concepts:
+  - base64 decoding
+  - ROT13 transformation using tr
+  - Working with compressed files (gzip concept introduced)
+  - Understanding process control basics (jobs, Ctrl+Z vs Ctrl+C)
+- Current Focus: Actively investigating binary file structures and data extraction techniques for Level 12.
+  
 ## Planned Projects (To familiarize myself with python)
 - Password Strength Checker
 - Port Scanner
