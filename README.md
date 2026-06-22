@@ -54,6 +54,9 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
   - Understanding process control basics (jobs, Ctrl+Z vs Ctrl+C)
 - Current Focus: Actively investigating binary file structures and data extraction techniques for Level 12.
   
+### Day 4
+- More on Python (File Handling)
+
 ## Planned Projects (To familiarize myself with python)
 - Password Strength Checker
 - Port Scanner
