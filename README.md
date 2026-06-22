@@ -55,7 +55,7 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
 - Current Focus: Actively investigating binary file structures and data extraction techniques for Level 12.
   
 ### Day 4
-- More on Python (File Handling)
+- More on Python (File Handling, Dictionaries)
 
 ## Planned Projects (To familiarize myself with python)
 - Password Strength Checker
