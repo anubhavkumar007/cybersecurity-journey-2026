@@ -58,6 +58,9 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
 - More on Python (File Handling, Dictionaries)
 - Completed Project #2: Log Analyzer
 
+### Day 
+- Continuing with OverTheWire Bandit
+
 ## Planned Projects (To familiarize myself with python)
 - Password Strength Checker
 - Port Scanner
