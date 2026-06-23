@@ -48,8 +48,8 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
   - Pattern searching using grep
   - File type identification using file
   - Basic encoding/decoding concepts:
-  - base64 decoding
-  - ROT13 transformation using tr
+    - base64 decoding
+    - ROT13 transformation using tr
   - Working with compressed files (gzip concept introduced)
   - Understanding process control basics (jobs, Ctrl+Z vs Ctrl+C)
 - Current Focus: Actively investigating binary file structures and data extraction techniques for Level 12.
@@ -58,10 +58,46 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
 - More on Python (File Handling, Dictionaries)
 - Completed Project #2: Log Analyzer
 
-### Day 
+### Day 5
 - Continuing with OverTheWire Bandit
+- Completed OverTheWire Bandit level 12 to level 16
+- Learned and Practiced:
+  - File Analysis & Data Extraction:
+    - Investigated binary file structures and embedded data
+    - Converted hexadecimal dumps back to binary using xxd
+    - Extracted data from multiple nested archive and compression formats
+    - Practiced systematic analysis of unknown files rather than relying on file extensions
+  - Compression & Archiving Concepts: gzip, bzip2, tar archives:
+    - Learned how different compression and archive formats interact
+    - Developed a recursive extraction workflow for deeply nested files
+  - Networking & Service Enumeration
+    - Discovered open ports on localhost using nmap
+    - Learned the difference between port scanning and service detection
+    - Performed service fingerprinting using nmap -sV
+    - Distinguished between plain TCP services and SSL/TLS-enabled services
+  - SSL/TLS Fundamentals:
+    - Connected to encrypted services using openssl s_client
+    - Interpreted TLS handshake output
+    - Observed certificates, session tickets, and encrypted connections in practice
+    - Learned how to communicate with services running over TLS
+  - Authentication & Access Control:
+    - Submitted credentials to network services
+    - Enumerated multiple candidate services to identify the correct target
+    - Retrieved an RSA private key from a remote service
+    - Used SSH public-key authentication instead of passwords
+    - Logged into the next level using a private key
+  - Cybersecurity Concepts Practiced
+    - Information gathering and investigation of unknown systems
+    - Discovering open network ports and available services
+    - Identifying service types through network probing
+    - Understanding encrypted network communication (SSL/TLS)
+    - Authenticating with passwords and SSH keys
+    - Working with RSA private keys
+    - Systematic troubleshooting and problem-solving
 
 ## Planned Projects (To familiarize myself with python)
-- Password Strength Checker
 - Port Scanner
+
+## Completed Projects (Code Available on the Repository)
+- Password Strength Checker
 - Log Analyzer
