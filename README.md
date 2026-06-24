@@ -95,6 +95,9 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
     - Working with RSA private keys
     - Systematic troubleshooting and problem-solving
 
+## Day 6
+- Continuing with OverTheWireBandit
+
 ## Planned Projects (To familiarize myself with python)
 - Port Scanner
 
