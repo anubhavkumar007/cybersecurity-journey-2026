@@ -108,6 +108,7 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
   - Understanding Bash variables and command substitution
   - Generating MD5 hashes and reproducing values used by scripts
   - Finding files whose names were generated automatically from known inputs
+- Started Networking Basics from Cisco Networking Academy
 
 
 ## Planned Projects (To familiarize myself with python)
