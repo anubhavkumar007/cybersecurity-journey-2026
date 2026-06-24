@@ -109,6 +109,8 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
   - Generating MD5 hashes and reproducing values used by scripts
   - Finding files whose names were generated automatically from known inputs
 - Started Networking Basics from Cisco Networking Academy
+- Completed Module 1: Communication in a Connected World
+- Started Module 2: Network Components, Types, and Connections
 
 
 ## Planned Projects (To familiarize myself with python)
