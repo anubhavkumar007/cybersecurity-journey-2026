@@ -96,7 +96,19 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
     - Systematic troubleshooting and problem-solving
 
 ## Day 6
-- Continuing with OverTheWireBandit
+- Continuing with OverTheWire Bandit
+- Completed OverTheWire Bandit level 17 to level 23
+- Learned and Practiced:
+  - Using SSH to execute commands when a normal shell is restricted
+  - Understanding how SetUID programs can run commands with another user's permissions
+  - Creating local TCP listeners using nc(netcat)
+  - Sending and receiving data between processes over localhost
+  - Exploring scheduled tasks managed by cron
+  - Reading cron configurations and following the scripts they execute
+  - Understanding Bash variables and command substitution
+  - Generating MD5 hashes and reproducing values used by scripts
+  - Finding files whose names were generated automatically from known inputs
+
 
 ## Planned Projects (To familiarize myself with python)
 - Port Scanner
