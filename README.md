@@ -112,7 +112,9 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
 - Completed Module 1: Communication in a Connected World
 - Started Module 2: Network Components, Types, and Connections
 
-
+## Day 7
+- Continuing with OverTheWire Bandit
+  
 ## Planned Projects (To familiarize myself with python)
 - Port Scanner
 
