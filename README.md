@@ -52,7 +52,7 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
     - ROT13 transformation using tr
   - Working with compressed files (gzip concept introduced)
   - Understanding process control basics (jobs, Ctrl+Z vs Ctrl+C)
-- Current Focus: Actively investigating binary file structures and data extraction techniques for Level 12.
+- Current Focus: Trying to figure out Level 12 by investigating binary files and extracted data
   
 ### Day 4
 - More on Python (File Handling, Dictionaries)
@@ -66,10 +66,10 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
     - Investigated binary file structures and embedded data
     - Converted hexadecimal dumps back to binary using xxd
     - Extracted data from multiple nested archive and compression formats
-    - Practiced systematic analysis of unknown files rather than relying on file extensions
+    - Practiced analysis of unknown files rather than relying on file extensions
   - Compression & Archiving Concepts: gzip, bzip2, tar archives:
     - Learned how different compression and archive formats interact
-    - Developed a recursive extraction workflow for deeply nested files
+    - Practiced extracting data from multiple layers of compressed files
   - Networking & Service Enumeration
     - Discovered open ports on localhost using nmap
     - Learned the difference between port scanning and service detection
@@ -82,7 +82,7 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
     - Learned how to communicate with services running over TLS
   - Authentication & Access Control:
     - Submitted credentials to network services
-    - Enumerated multiple candidate services to identify the correct target
+    - Checked multiple services to find the correct one
     - Retrieved an RSA private key from a remote service
     - Used SSH public-key authentication instead of passwords
     - Logged into the next level using a private key
@@ -113,7 +113,9 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
 - Started Module 2: Network Components, Types, and Connections
 
 ## Day 7
-- Continuing with OverTheWire Bandit
+- Planned to continue with new Bandit levels
+- Had to re-complete OverTheWire Bandit Levels 1 to 23 after the password chain reset
+- Good revision of Linux commands, file analysis, SSH, SSL/TLS, cron jobs and permission concepts
   
 ## Planned Projects (To familiarize myself with python)
 - Port Scanner
