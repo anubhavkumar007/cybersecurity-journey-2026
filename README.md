@@ -117,6 +117,9 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
 - Had to re-complete OverTheWire Bandit Levels 1 to 23 after the password chain reset
 - Good revision of Linux commands, file analysis, SSH, SSL/TLS, cron jobs and permission concepts
   
+## Day 8
+- Continuing with OverTheWire Bandit
+
 ## Planned Projects (To familiarize myself with python)
 - Port Scanner
 
