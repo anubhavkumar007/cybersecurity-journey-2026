@@ -119,6 +119,18 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
   
 ## Day 8
 - Continuing with OverTheWire Bandit
+- Completed OverTheWire Bandit Level 24
+- Learned, Explored and Practiced:
+  - How Linux cron jobs execute scripts under a different user
+  - File ownership, permissions, and execution context
+  - Commands like whoami, pwd, ls and cat to debug script behavior instead of repeatedly guessing
+  - Gained experience with mktemp, temporary directories, and scheduled task automation
+  - Learned that cron jobs run in a different environment than an interactive shell
+- Today's biggest lesson wasn't the password — it was learning to debug systems methodically
+- # Reflection:
+  - Bandit Level 23 took me nearly six hours... It was the first challenge where the real obstacle wasn't Linux syntax—it was understanding how a system behaves when a program runs under a different user and in a different execution environment. Although I eventually solved it...the more valuable takeaway was learning to debug methodically instead of repeatedly guessing...that mindset will be useful far beyond this challenge.
+- Continued Networking Basics from Cisco Networking Academy
+- Completed Module 2: Network Components, Types and Connections
 
 ## Planned Projects (To familiarize myself with python)
 - Port Scanner
