@@ -127,10 +127,55 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
   - Gained experience with mktemp, temporary directories, and scheduled task automation
   - Learned that cron jobs run in a different environment than an interactive shell
 - Today's biggest lesson wasn't the password — it was learning to debug systems methodically
-- # Reflection:
+- ### Reflection:
   - Bandit Level 23 took me nearly six hours... It was the first challenge where the real obstacle wasn't Linux syntax—it was understanding how a system behaves when a program runs under a different user and in a different execution environment. Although I eventually solved it...the more valuable takeaway was learning to debug methodically instead of repeatedly guessing...that mindset will be useful far beyond this challenge.
 - Continued Networking Basics from Cisco Networking Academy
 - Completed Module 2: Network Components, Types and Connections
+
+## Day 9
+- Continuing with OverTheWire Bandit
+- Completed OverTheWire from level 25 to level 27
+- Learned, Explored and Practiced:
+  - Bash Scripting & Automation:
+    - Wrote a Bash script to automate brute-force attempts
+    - Practiced for loops and command substitution
+    - Learned to generate formatted output using printf
+    - Understood format specifiers (%04d, %s) and zero-padding
+    - Learned why printf is preferred over echo for structured output
+  - Unix Pipelines & Standard Streams:
+    - Used pipes (|) to connect independent programs together
+    - Learned how one program's output becomes another program's input
+    - Sent generated input directly to network services using nc
+    - Understood that multiple requests can be sent over a single network connection
+  - Interactive Network Communication:
+    - Practiced communicating with services using netcat
+    - Learned the difference between repeatedly creating connections and maintaining one persistent connection
+    - Automated interaction with a network service through shell scripting
+  - Login Shells & Restricted Environments:
+    - Investigated how Linux stores user login shells in /etc/passwd
+    - Explored custom login shells and why not every user starts in /bin/bash
+    - Read and analyzed a shell script that replaced the default login shell
+    - Learned how the exec command replaces the current process instead of creating a child process
+  - Working with Linux Pagers:
+    - Learned how more behaves differently depending on terminal size
+    - Investigated interactive features of more
+    - Read the pager documentation to understand its features
+  - Vim Exploration:
+    - Entered Vim through more
+    - Learned about Ex commands and Vim's interaction with external programs
+    - Used Vim to obtain an interactive shell from a restricted environment
+  - Executable Analysis:
+    - Distinguished executable binaries from ordinary files
+    - Used file to identify executable types
+    - Used strings to inspect printable strings embedded inside ELF binaries
+    - Learned how to investigate an unknown executable before running it
+  - Linux Permissions & SetUID (SUID)
+    - Explored Linux permission bits in detail
+    - Learned the purpose of the Set User ID (SUID) permission
+    - Understood how SUID programs execute with the file owner's privileges instead of the executing user's privileges
+    - Executed commands through a SUID binary to access resources owned by another user
+  - ### Reflection:
+    - Bandit Levels 25 and 26 were very different from previous levels...instead of focusing on Linux commands, they required understanding how Unix systems are designed. I spent several hours reading documentation, investigating shell scripts, experimenting with more and vim, analyzing executables, and understanding how permissions affected execution before finally solving them. The most valuable lesson wasn't learning a specific command — it was learning to investigate unfamiliar systems methodically and test my assumptions by experimenting instead of guessing.
 
 ## Planned Projects (To familiarize myself with python)
 - Port Scanner
