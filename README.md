@@ -174,8 +174,8 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
     - Learned the purpose of the Set User ID (SUID) permission
     - Understood how SUID programs execute with the file owner's privileges instead of the executing user's privileges
     - Executed commands through a SUID binary to access resources owned by another user
-  - ### Reflection:
-    - Bandit Levels 25 and 26 were very different from previous levels...instead of focusing on Linux commands, they required understanding how Unix systems are designed. I spent several hours reading documentation, investigating shell scripts, experimenting with more and vim, analyzing executables, and understanding how permissions affected execution before finally solving them. The most valuable lesson wasn't learning a specific command — it was learning to investigate unfamiliar systems methodically and test my assumptions by experimenting instead of guessing.
+- ### Reflection:
+  - Bandit Levels 25 and 26 were very different from previous levels...instead of focusing on Linux commands, they required understanding how Unix systems are designed. I spent several hours reading documentation, investigating shell scripts, experimenting with more and vim, analyzing executables, and understanding how permissions affected execution before finally solving them. The most valuable lesson wasn't learning a specific command — it was learning to investigate unfamiliar systems methodically and test my assumptions by experimenting instead of guessing.
 
 ## Planned Projects (To familiarize myself with python)
 - Port Scanner
