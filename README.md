@@ -177,6 +177,9 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
 - ### Reflection:
   - Bandit Levels 25 and 26 were very different from previous levels...instead of focusing on Linux commands, they required understanding how Unix systems are designed. I spent several hours reading documentation, investigating shell scripts, experimenting with more and vim, analyzing executables, and understanding how permissions affected execution before finally solving them. The most valuable lesson wasn't learning a specific command — it was learning to investigate unfamiliar systems methodically and test my assumptions by experimenting instead of guessing.
 
+## Day 10
+- Continuing with OverTheWire Bandit
+
 ## Planned Projects (To familiarize myself with python)
 - Port Scanner
 
