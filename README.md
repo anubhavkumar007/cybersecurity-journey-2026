@@ -199,7 +199,7 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
     - Explored how shell expansion occurs before command execution
     - Escaped a restricted shell by understanding shell expansion and execution behavior
 - ### Reflection:
-    - Completing Bandit made me realize that Linux is much more than a collection of commands...as later levels required understanding how shells, permissions, processes, Git, and system behavior work together. The biggest change in my approach was moving from searching for commands to investigating how a system behaves before trying a solution.
+  - Completing Bandit made me realize that Linux is much more than a collection of commands...as later levels required understanding how shells, permissions, processes, Git, and system behavior work together. The biggest change in my approach was moving from searching for commands to investigating how a system behaves before trying a solution.
 
 ## Planned Projects (To familiarize myself with python)
 - Port Scanner
