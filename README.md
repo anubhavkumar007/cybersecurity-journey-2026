@@ -134,7 +134,7 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
 
 ## Day 9
 - Continuing with OverTheWire Bandit
-- Completed OverTheWire from level 25 to level 27
+- Completed OverTheWire Bandit from level 25 to level 27
 - Learned, Explored and Practiced:
   - Bash Scripting & Automation:
     - Wrote a Bash script to automate brute-force attempts
@@ -179,6 +179,27 @@ I use online resources, documentation, and AI tools to plan learning roadmaps an
 
 ## Day 10
 - Continuing with OverTheWire Bandit
+- Completed OverTheWire Bandit from level 28 to level 34
+- Completed entire Bandit Wargame
+- Learned, Explored and Practiced:
+  - Git Fundamentals
+    - Cloned remote repositories over SSH
+    - Explored commit history using git log
+    - Compared historical commits using git diff
+    - Explored remote branches
+    - Switched between local and remote branches
+    - Worked with Git tags
+    - Retrieved hidden information from repository history
+    - Understood .gitignore and force-staging ignored files
+    - Created and pushed commits to a remote repository
+  - Linux & Shell
+    - Investigated restricted shell environments
+    - Understood the purpose of special shell parameters such as $0
+    - Learned about shell parameter expansion
+    - Explored how shell expansion occurs before command execution
+    - Escaped a restricted shell by understanding shell expansion and execution behavior
+  - ### Reflection:
+    - Completing Bandit made me realize that Linux is much more than a collection of commands...as later levels required understanding how shells, permissions, processes, Git, and system behavior work together. The biggest change in my approach was moving from searching for commands to investigating how a system behaves before trying a solution.
 
 ## Planned Projects (To familiarize myself with python)
 - Port Scanner
